@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "jenkins.ttlab-k8s.click"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
